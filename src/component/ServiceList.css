@@ -1,0 +1,46 @@
+.service {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .service h3 {
+    margin: 0 0 10px;
+    color: #333;
+  }
+  
+  .service p {
+    margin: 0;
+    font-size: 1rem;
+  }
+  
+  .service-price {
+    font-weight: bold;
+    color: #28a745;
+    margin-top: 5px;
+  }
+  
+  .service-buttons {
+    margin-top: 15px;
+  }
+  
+  button.edit-btn {
+    background-color: #ffc107;
+    margin-right: 10px;
+  }
+  
+  button.delete-btn {
+    background-color: #dc3545;
+  }
+  
+  button.edit-btn:hover {
+    background-color: #e0a800;
+  }
+  
+  button.delete-btn:hover {
+    background-color: #c82333;
+  }
+  
